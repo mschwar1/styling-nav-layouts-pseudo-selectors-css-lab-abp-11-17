@@ -67,6 +67,6 @@ footer{
   padding-top: 20px;
   color: #CCC;
 }
-#bighead a:hover {
+#header a:hover {
   text-decoration: underline;
 }
